@@ -1,5 +1,4 @@
 <h1 align="center")>Hi 👋! My name is Hasan</h1>
-<br>
 <h1 align="center")>I'm a CS Student, from Turkey</h1>
 
 <div align="center">
